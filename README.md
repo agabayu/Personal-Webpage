@@ -8,4 +8,6 @@
 
 ~Angela You
 
-(upload error before)
+Updated Figma reference:
+<img width="1179" height="1476" alt="image" src="https://github.com/user-attachments/assets/c990c491-baf2-4854-b944-791fd57d3d81" />
+
